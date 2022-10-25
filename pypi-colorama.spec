@@ -4,7 +4,7 @@
 #
 Name     : pypi-colorama
 Version  : 0.4.5
-Release  : 90
+Release  : 91
 URL      : https://files.pythonhosted.org/packages/2b/65/24d033a9325ce42ccbfa3ca2d0866c7e89cc68e5b9d92ecaba9feef631df/colorama-0.4.5.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2b/65/24d033a9325ce42ccbfa3ca2d0866c7e89cc68e5b9d92ecaba9feef631df/colorama-0.4.5.tar.gz
 Summary  : Cross-platform colored terminal text.
